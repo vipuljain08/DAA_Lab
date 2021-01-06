@@ -13,3 +13,5 @@
 [6. Selected Activities](https://github.com/vipuljain08/DAA_Lab/blob/master/EXPERIMENT_5.c)
 
 [7. Matrix Chain Multiplication](https://github.com/vipuljain08/DAA_Lab/blob/master/EXPERIMENT_6.c)
+
+[8. Minimum Spanning Tree](https://github.com/vipuljain08/DAA_Lab/blob/master/Minimum%20Spanning%20Tree%20-%20EXPERIMENT%207.c)
