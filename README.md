@@ -15,3 +15,7 @@
 [7. Matrix Chain Multiplication](https://github.com/vipuljain08/DAA_Lab/blob/master/EXPERIMENT_6.c)
 
 [8. Minimum Spanning Tree](https://github.com/vipuljain08/DAA_Lab/blob/master/Minimum%20Spanning%20Tree%20-%20EXPERIMENT%207.c)
+
+[9. N Queens](https://github.com/vipuljain08/DAA_Lab/blob/master/NQueens%20EXPERIMENT-9%20.c)
+
+[10. Traveling Salesman](https://github.com/vipuljain08/DAA_Lab/blob/master/Travelling%20Salesman%20EXPERIMENT_11.c)
