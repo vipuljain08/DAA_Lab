@@ -1,5 +1,7 @@
 # DAA Lab Programs
 
+## Vipul Jain 1901610109011
+
 [1. Linear Search](https://github.com/vipuljain08/DAA_Lab/blob/master/EXPERIMENT_1(A).c)
 
 [2. Binary Search](https://github.com/vipuljain08/DAA_Lab/blob/master/EXPERIMENT_1(B).c)
